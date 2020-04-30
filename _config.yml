@@ -25,8 +25,8 @@ permalink_defaults:
 source_dir: source
 public_dir: public
 tag_dir: tags
-archive_dir: archives
-category_dir: categories
+archive_dir: source/_posts
+category_dir: source/_category
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
@@ -76,7 +76,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Chic
+theme: diaspora
 
 
 # navigatior items
@@ -93,7 +93,7 @@ favicon: /favicon.ico
 nickname: yaphet
 
 ### this variable is MarkDown form.
-avatar: /image/avatar.jpeg
+avatar: https://avatars2.githubusercontent.com/u/10628090?s=60&v=4
 
 # main menu navigation
 ## links key words should not be changed.

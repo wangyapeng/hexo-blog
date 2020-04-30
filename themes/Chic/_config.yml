@@ -15,8 +15,8 @@ favicon: /favicon.ico
 nickname: yaphet
 
 ### this variable is MarkDown form.
-description: 'test'
-avatar: /image/avatar.jpeg
+description: '北漂老前端，王者老亚瑟，带妹打野三十年从没赢过'
+avatar: /image/tt.jpeg
 
 # main menu navigation
 ## links key words should not be changed.
@@ -33,7 +33,7 @@ links:
   # Gallery:
   # RSS:
   # AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
+  # ZhiHu: https://www.zhihu.com/people/sirice
   # LinkedIn:
   # FaceBook:
   # Twitter:
@@ -43,12 +43,12 @@ links:
   # Sketch:
   # Gitlab:
   # Dribbble:
-  Instagram:
-  Reddit:
+  # Instagram:
+  # Reddit:
   # YouTube:
   # QQ:
   # Weibo:
-  # WeChat:
+  WeChat: yaphet_peng
   Github: https://github.com/Siricee
 
 # how links show: you have 2 choice--text or icon.
